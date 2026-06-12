@@ -4,9 +4,9 @@ Alles van mij van transcriptnomics
 
 ## Inhoud
 
-- [Inleiding](inleiding.md)
-- [Materiaal en Methode](materiaal_en_methode.md)
-- [Resultaten](resultaten.md)
-- [Discussie](discussie.md)
-- [Conclusie](conclusie.md)
-- [Referenties](referenties.md)
+- [Inleiding]
+- [Materiaal en Methode]
+- [Resultaten]
+- [Discussie]
+- [Conclusie]
+- [Extra's]
