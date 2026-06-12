@@ -4,9 +4,9 @@ Alles van mij van transcriptnomics
 
 ## Inhoud
 
-- [Inleiding]
-- [Materiaal en Methode]
-- [Resultaten]
-- [Discussie]
-- [Conclusie]
-- [Extra's]
+- Inleiding
+- Materiaal en Methode
+- Resultaten
+- Discussie
+- Conclusie
+- Extra's
