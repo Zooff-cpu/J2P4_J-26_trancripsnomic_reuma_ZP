@@ -7,6 +7,18 @@ Alles van mij van transcriptnomics
 - Inleiding
 - Materiaal en Methode
 - Resultaten
-- Discussie
 - Conclusie
 - Extra's
+
+##Inleiding
+Blabla 200 wordewn ong
+
+##Materiaal en Methode
+blabla vertel maart wat we hebben gedaan
+
+##Resultaten
+blabla
+
+##Conclusie
+
+##Extra's
