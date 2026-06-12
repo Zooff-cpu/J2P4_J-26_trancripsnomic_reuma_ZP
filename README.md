@@ -22,9 +22,9 @@ blabla vertel maart wat we hebben gedaan
 
 blabla
 
-## Conclusie
+## 🩹Conclusie
 
 blabla
-## Extra's
+## 🌼Extra's
 
 blabvla
