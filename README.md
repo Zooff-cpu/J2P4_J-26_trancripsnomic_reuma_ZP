@@ -2,7 +2,7 @@
 Alles van mij van transcriptnomics
 
 
-## Inhoud
+## 🌸Inhoud
 
 - Inleiding
 - Materiaal en Methode
@@ -10,15 +10,15 @@ Alles van mij van transcriptnomics
 - Conclusie
 - Extra's
 
-## Inleiding
+## 🩺Inleiding
 
 Blabla 200 wordewn ong
 
-## Materiaal en Methode
+## 🔬Materiaal en Methode
 
 blabla vertel maart wat we hebben gedaan
 
-## Resultaten
+## 💻Resultaten
 
 blabla
 
