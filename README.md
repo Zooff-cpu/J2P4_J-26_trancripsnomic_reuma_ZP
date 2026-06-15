@@ -25,6 +25,6 @@ blabla
 ## 🩹Conclusie
 
 blabla
-## 🌼Extra's
+## 🌼AI gebruik en extra's
 
 blabvla
