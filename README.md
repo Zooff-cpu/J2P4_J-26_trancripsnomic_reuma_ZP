@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/dna.png" width="800">
+</p>
+
+<h1 align="center">J2P4_J-26_Transcriptomics_Reuma_ZP</h1>
+
 # J2P4_J-26_trancripsnomic_reuma_ZP
 Alles van mij van transcriptnomics
 
