@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="DNA strand.jpg" width="300">
-</p>
 
-<h1 align="center">J2P4_J-26_Transcriptomics_Reuma_ZP</h1>
 
 # 🌟Analyse van genexpressie bij patiënten met reuma
 Alles van mij van transcriptnomics
