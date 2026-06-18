@@ -35,12 +35,17 @@ Bij dit onderzoek, participeerde acht vrouwen. Vier van deze vrouwen, waren voor
 
 ## 💻Resultaten
 
-volcano
+**🌸Volcano dotplot**
+
+RNA-sequencing van 4 ACPA-positieve RA-patiënten en 4 ACPA-negatieve controles identificeerde meerdere differentieel geëxprimeerde genen. In de volcano plot vertegenwoordigen rode punten genen die zowel een significante p-waarde als een sterke verandering in expressie vertonen, terwijl groene punten alleen een significante fold change laten zien. De meest opvallende opgereguleerde genen waren *SRGN*, *PTGFR*, *ADAMTS6*, *CXCR1*, *IGHV4-4*, *IGHG4* en *IGKV1-39*. Sterk neer-gereguleerde genen waren onder andere *ANKRD30BL*, *MT-ND6*, *RAB3IL1*, *SLC9A3R2* en *ZNF598*. Deze resultaten wijzen mogelijk op een verhoogde immuunactiviteit in de ACPA-positieve groep ten opzichte van de controle groep.
+
 <img width="1917" height="982" alt="Rplot_Volcano_plot_Zoom" src="https://github.com/user-attachments/assets/6efe6407-06b3-462e-a518-2161b8b2b6b6" />
 
 <sub><b>Figuur 1.</b> <i>***Volcano plot van differentiële genexpressie in slijmvliesbiopten van ACPA-positieve reumatoïde artritis (RA) patiënten ten opzichte van ACPA-negatieve controles. De x-as geeft de log2 fold change weer, waarbij positieve waarden een verhoogde genexpressie en negatieve waarden een verlaagde genexpressie aangeven. De y-as toont de statistische significantie als -log10(p-waarde). Punten boven de ingestelde significantiedrempel vertegenwoordigen differentieel tot expressie komende genen. Elke stip representeert één gen.(n = 8)***.</i></sub>
 ___
 **🌸Go-analyse**
+
+In figuur 3 is zichtbaar in de GO-verrijkingsanalyse dat er een sterke toename te zien is van immuun- en lymfocytgerelateerde biologische processen, waaronder lymfocytdifferentiatie, leukocyt-gemedieerde immuniteit, B-celactivatie, T-celdifferentiatie en immunoglobuline-gemedieerde immuunrespons. De grootste stippen werden waargenomen bij lymfocytdifferentiatie en leukocyt-gemedieerde immuniteit, wat aangeeft dat deze processen het grootste aantal differentieel expressie van genen heeft. De laagste aangepaste p-waarden werden gevonden bij processen zoals immunoglobuline-gemedieerde immuunrespons en adaptieve immuunrespons gebaseerd op somatische recombinatie van immunoglobuline-superfamilie receptoren, weergegeven door de felrode kleur.
 
 <img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/36eb2518-4cac-4b15-bc51-38b1b987566e" /> 
 
@@ -78,7 +83,29 @@ ___
 
 ## 🩹Conclusie
 
-blabla
+**Volcano dotplot**
+
+**GO-analyse**
+
+**KEGG-pathways**
+
+**Differentïele genexpressie pathway's**
+
+**Onderzoeksvraag**
+
+
 ## 🌼AI gebruik en competenties
 
-blabvla
+**🖥️AI gebruik**
+Bij het maken van deze github pagina is er gebruik gemaakt van AI, specifiek met chatGPT.
+Voor de plaatjes op de voorblad en materiaal en methode, is er chatGPT gebruikt om deze te maken.
+Voor inhoud, tekstgewijs en opmaaksgewijs. Is chatGPT gebruikt, voor: spellingscontrole, aanknooppunt om tekst te schrijven, code voor het maken van het GITHUB pagina en hoe alles werkt en de opmaak (lettertype, plaatjes juiste plek of naast elkaar). 
+Voor de verkregen resultaten, is chatGPT gebruikt, ter ondersteuning van de analyse van de resultaten, volcano plot, GO-analyse, KEGG-pathways, Differentiele genexpressie pathways's. AI is gebruikt als extra uitleg, wat wat zou kunnen zeggen, hierbij is er zelf wel verder nog naar gekeken en onderzocht omdat AI niet volledig betrouwbaar is.
+
+In R, is AI gebruikt voor:
+- ondersteuning van de zelfgeschreven code in de script, omdat naturlijk niet altijd alles werkt en daarbij chatGPT mogelijke oplossingen brengt.
+- Het sorteren van het script, betere overzicht van alle getypte code.
+____
+
+**⚖️compententies**
+  
