@@ -34,8 +34,10 @@ Bij dit onderzoek, participeerde acht vrouwen. Vier van deze vrouwen, waren voor
 
 
 ## 💻Resultaten
+<img width="1917" height="982" alt="Rplot_Volcano_plot_Zoom" src="https://github.com/user-attachments/assets/6efe6407-06b3-462e-a518-2161b8b2b6b6" />
 
-blabla
+
+
 
 ## 🩹Conclusie
 
