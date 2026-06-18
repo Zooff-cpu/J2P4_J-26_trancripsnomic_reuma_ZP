@@ -1,7 +1,9 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/64d1b37a-8278-4e10-811f-a08d57792858" />
 
 
-# 🌟Analyse van genexpressie bij patiënten met reuma
-Alles van mij van transcriptnomics
+# **🌟Analyse van genexpressie bij patiënten met reuma in tegenstelling tot gezonde mensen🌟**
+---
+
 
 
 ## 🌸Inhoud
