@@ -9,16 +9,15 @@ Alles van mij van transcriptnomics
 
 
 ## 🌸Inhoud
+---
+♥  `Data/`
 
-♥ Inleiding
+♥  `Scripts/`
 
-♥ Materiaal en Methode
+♥  `Resultaten/`
 
-♥ Resultaten
+♥  `Referenties/`
 
-♥ Conclusie
-
-♥ Extra's
 
 ## 🩺Inleiding
 
