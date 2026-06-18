@@ -38,10 +38,33 @@ Volcano plot
 <img width="1917" height="982" alt="Rplot_Volcano_plot_Zoom" src="https://github.com/user-attachments/assets/6efe6407-06b3-462e-a518-2161b8b2b6b6" />
 
 <sub><b>Figuur 1.</b> <i>***Volcano plot van differentiële genexpressie in slijmvliesbiopten van ACPA-positieve reumatoïde artritis (RA) patiënten ten opzichte van ACPA-negatieve controles. De x-as geeft de log2 fold change weer, waarbij positieve waarden een verhoogde genexpressie en negatieve waarden een verlaagde genexpressie aangeven. De y-as toont de statistische significantie als -log10(p-waarde). Punten boven de ingestelde significantiedrempel vertegenwoordigen differentieel tot expressie komende genen. Elke stip representeert één gen.(n = 8)***.</i></sub>
-
+___
 go-analyse
 
 <img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/36eb2518-4cac-4b15-bc51-38b1b987566e" /> 
+
+<sub><b>Figuur 2.</b> <i>***Een GO-dotplot, van differentïele tot expressie komende genen uit de slijmvliesbiopten van ACPA-positieve RA patiënten in tegenstelling tot ACPA-negatieve controle. Hierbij weergeeft de x-as de gene-ratio, waarbij de genen worden gevisualiseerd bij welke biologische processen deze toebehoren. Waarbij de y-as de verschillende biologische processen weergeeft. De grootte van de cirkel toont aan de aantal genen in deze cirkel, en de kleur de significantie van de p-waarde.(n = 8)***.</i></sub>
+___
+KEGG-analyse
+
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/9f92dec3-cbbd-4219-b8cf-fa0ace7000f8" width="420"><br>
+<b>Figuur 3.</b> KEGG pathway in een dotplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles. De x-as toont de aandeel van genen gekoppeld aan een pathway (Generatio), waarbij de y-as verschillende KEGG-pathways weergeeft. De grootte van de stip laat de aantal gekoppelde genen zien en de kleur de significantie van de p-waarde (n=8).
+</td>
+
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/fcb35979-4d46-4895-9753-239251d322c5" width="420"><br>
+<b>Figuur 4.</b> KEGG pathway in een balkplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles. De x-as toont de aandeel van genen gekoppeld aan een pathway (Generatio), waarbij de y-as verschillende KEGG-pathways weergeeft. De balken staan gelijk aan een pathway en de lengte van de balk visualiseert hoeveel genen zijn betrokken aan die pathway, en de kleur de significantie van de p-waarde (n=8).
+</td>
+</tr>
+</table>
+___
+Pathway analyse
+
 
 
 ## 🩹Conclusie
