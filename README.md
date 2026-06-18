@@ -40,6 +40,6 @@ blabla
 ## 🩹Conclusie
 
 blabla
-## 🌼AI gebruik en extra's
+## 🌼AI gebruik en competenties
 
 blabvla
