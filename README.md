@@ -35,18 +35,23 @@ Bij dit onderzoek, participeerde acht vrouwen. Vier van deze vrouwen, waren voor
 
 ## 💻Resultaten
 
-
+volcano
 <img width="1917" height="982" alt="Rplot_Volcano_plot_Zoom" src="https://github.com/user-attachments/assets/6efe6407-06b3-462e-a518-2161b8b2b6b6" />
 
 <sub><b>Figuur 1.</b> <i>***Volcano plot van differentiële genexpressie in slijmvliesbiopten van ACPA-positieve reumatoïde artritis (RA) patiënten ten opzichte van ACPA-negatieve controles. De x-as geeft de log2 fold change weer, waarbij positieve waarden een verhoogde genexpressie en negatieve waarden een verlaagde genexpressie aangeven. De y-as toont de statistische significantie als -log10(p-waarde). Punten boven de ingestelde significantiedrempel vertegenwoordigen differentieel tot expressie komende genen. Elke stip representeert één gen.(n = 8)***.</i></sub>
 ___
-go-analyse
+**Go-analyse**
 
 <img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/36eb2518-4cac-4b15-bc51-38b1b987566e" /> 
 
 <sub><b>Figuur 2.</b> <i>***Een GO-dotplot, van differentïele tot expressie komende genen uit de slijmvliesbiopten van ACPA-positieve RA patiënten in tegenstelling tot ACPA-negatieve controle. Hierbij weergeeft de x-as de GeneRatio, waarbij de genen worden gevisualiseerd bij welke biologische processen deze toebehoren. Waarbij de y-as de verschillende biologische processen weergeeft. De grootte van de cirkel toont aan de aantal genen in deze cirkel, en de kleur de significantie van de p-waarde.(n = 8)***.</i></sub>
 ___
 **KEGG-analyse in dotplot en barplot**
+De KEGG pathway analyse liet zien dat meerdere ontstekings- en immuungerelateerde pathways significant verrijkt waren in de dataset (Figuur 3). De hoogste GeneRatio werd gevonden voor de MAPK signaling pathway (≈0,05), gevolgd door Epstein-Barr virus infection en de NOD-like receptor signaling pathway. Daarnaast werden ook de TNF signaling pathway, NF-kappa B signaling pathway, Th17 cell differentiation en de IL-17 signaling pathway verrijkt gevonden.
+De grootste aantallen genen werden waargenomen voor de MAPK signaling pathway, terwijl pathways zoals Leishmaniasis en de IL-17 signaling pathway minder genen bevatten. Alle weergegeven pathways waren statistisch significant (adjusted p-value < 0,001), waarbij de sterkste significantie werd gevonden voor onder andere de TNF signaling pathway, NF-kappa B signaling pathway en Leishmaniasis.
+
+De KEGG pathway verrijkingsanalyse identificeerde verschillende significant verrijkte pathways in de differentieel tot expressie komende genen tussen ACPA-positieve RA-patiënten en ACPA-negatieve controles (Figuur 4). De hoogste aantallen genen werden gevonden in de *MAPK signaling pathway*, gevolgd door *Epstein-Barr virus infection* en de *NOD-like receptor signaling pathway*. Daarnaast waren ook de *TNF signaling pathway*, *Protein processing in endoplasmic reticulum* en *NF-kappa B signaling pathway* sterk vertegenwoordigd. De kleur van de balken weerspiegelt de aangepaste p-waarde, waarbij felrode balken wijzen op een hogere statistische significantie dan donkerrode of blauwe balken. De *NOD-like receptor signaling pathway*, *TNF signaling pathway* en *NF-kappa B signaling pathway* behoorden tot de meest significante pathways. Verder werden verrijkingen waargenomen in ontstekings- en immuungerelateerde pathways, waaronder de *IL-17 signaling pathway*, *Th17 cell differentiation* en de *AGE-RAGE signaling pathway in diabetic complications*.
+
 
 
 
