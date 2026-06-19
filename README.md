@@ -51,7 +51,7 @@ In figuur 3 is zichtbaar in de GO-verrijkingsanalyse dat er een sterke toename t
 
 <sub><b>Figuur 2.</b> <i>***Een GO-dotplot, van differentïele tot expressie komende genen uit de slijmvliesbiopten van ACPA-positieve RA patiënten in tegenstelling tot ACPA-negatieve controle. Hierbij weergeeft de x-as de GeneRatio, waarbij de genen worden gevisualiseerd bij welke biologische processen deze toebehoren. Waarbij de y-as de verschillende biologische processen weergeeft. De grootte van de cirkel toont aan de aantal genen in deze cirkel, en de kleur de significantie van de p-waarde.(n = 8)***.</i></sub>
 ___
-**🌸KEGG-analyse in dotplot en barplot**
+**🌸KEGG-pathway analyse in dotplot en barplot**
 
 De KEGG pathway analyse liet zien dat meerdere ontstekings- en immuungerelateerde pathways significant verrijkt waren in de dataset (Figuur 3). De hoogste GeneRatio werd gevonden voor de MAPK signaling pathway (≈0,05), gevolgd door Epstein-Barr virus infection en de NOD-like receptor signaling pathway. Daarnaast werden ook de TNF signaling pathway, NF-kappa B signaling pathway, Th17 cell differentiation en de IL-17 signaling pathway verrijkt gevonden.
 De grootste aantallen genen werden waargenomen voor de MAPK signaling pathway, terwijl pathways zoals Leishmaniasis en de IL-17 signaling pathway minder genen bevatten. Alle weergegeven pathways waren statistisch significant (adjusted p-value < 0,001), waarbij de sterkste significantie werd gevonden voor onder andere de TNF signaling pathway, NF-kappa B signaling pathway en Leishmaniasis.
@@ -83,7 +83,13 @@ De KEGG pathway verrijkingsanalyse identificeerde verschillende significant verr
 
 _____
 
-**🌸Pathway analyse**
+**🌸KEGG pathway analyse in diagram**
+
+
+<img width="1492" height="859" alt="Pathway_view_Referentie_ingezoomd" src="https://github.com/user-attachments/assets/cec99511-afa9-4b85-84e8-dbe0967c9bca" />
+
+
+<img width="1492" height="859" alt="Pathway_view_Differentiele_Genexpressie_ingezoomd" src="https://github.com/user-attachments/assets/580a067d-bb02-42c7-8fa5-98bdd7da1f15" />
 
 
 
