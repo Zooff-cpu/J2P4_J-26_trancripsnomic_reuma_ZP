@@ -25,11 +25,13 @@ De gemaakte mappen voor structuur:
 
 ❤ `Bronnen/`
 
-❤ `Compententies/'
+❤ `Compententies/`
 
-❤ `Raw_Data/'
+❤ `Data_bewerkt/`
 
-❤ `Resultaten/'
+❤ `Raw_Data/`
+
+❤ `Resultaten/`
 
 ❤ `Script_R/`
 
