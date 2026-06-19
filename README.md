@@ -45,7 +45,7 @@ Bij dit onderzoek, participeerde acht vrouwen. Vier van deze vrouwen, waren voor
 
 **🌸Volcano dotplot**
 
-RNA-sequencing van 4 ACPA-positieve RA-patiënten en 4 ACPA-negatieve controles identificeerde meerdere differentieel geëxprimeerde genen. In de volcano plot (Figuur 3) vertegenwoordigen rode punten genen die zowel een significante p-waarde als een sterke verandering in expressie vertonen, terwijl groene punten alleen een significante fold change laten zien. De meest opvallende opgereguleerde genen waren *SRGN*, *PTGFR*, *ADAMTS6*, *CXCR1*, *IGHV4-4*, *IGHG4* en *IGKV1-39*. Sterk neer-gereguleerde genen waren onder andere *ANKRD30BL*, *MT-ND6*, *RAB3IL1*, *SLC9A3R2* en *ZNF598*. Deze resultaten wijzen mogelijk op een verhoogde immuunactiviteit in de ACPA-positieve groep ten opzichte van de controle groep.
+RNA-sequencing van 4 ACPA-positieve RA-patiënten en 4 ACPA-negatieve controles identificeerde meerdere differentieel geëxprimeerde genen. In de volcano plot [(Figuur 3)](Resultaten/Figuur%201_Rplot_Volcano_plot_Zoom.png)  vertegenwoordigen rode punten genen die zowel een significante p-waarde als een sterke verandering in expressie vertonen, terwijl groene punten alleen een significante fold change laten zien. De meest opvallende opgereguleerde genen waren *SRGN*, *PTGFR*, *ADAMTS6*, *CXCR1*, *IGHV4-4*, *IGHG4* en *IGKV1-39*. Sterk neer-gereguleerde genen waren onder andere *ANKRD30BL*, *MT-ND6*, *RAB3IL1*, *SLC9A3R2* en *ZNF598*. Deze resultaten wijzen mogelijk op een verhoogde immuunactiviteit in de ACPA-positieve groep ten opzichte van de controle groep.
 
 <img width="1917" height="982" alt="Rplot_Volcano_plot_Zoom" src="https://github.com/user-attachments/assets/6efe6407-06b3-462e-a518-2161b8b2b6b6" />
 
