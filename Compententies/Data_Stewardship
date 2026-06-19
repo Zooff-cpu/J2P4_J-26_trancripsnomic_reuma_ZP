@@ -7,11 +7,23 @@ Omdat je op deze manier, al je data, vindbaar blijft, maar ok betrouwbaar en mak
 Een duidelijke mappen structuur is als je alles sorteert, Literatuur/bronnen bij elkaar, scripts in één map, resultaten bij elkaar, Ruwe data bij elkaar en verwerkte data bij elkaar. Ook een mogelijke optie is om hieronder nog een extra mapjes toetevoegen voor extra overzicht en kleinere kans op fouten.
 
 ❥  Wat is een handige manier voor de naamgeving van bestanden en waarom?
-Het handigst is om te benoemen wat ze bevatten of waar ze mogelijk als refenrentie worden gebruikt. Bijvoorbeel: de bron waaruit de data van de patiëntn in staat heet, bron voor patiënten. Want daar komt de gebruikte data vandaan. Een ander voorbeeld zijn de resultaten, die hebben een figuur nummer gekregen en wat voor figuur het is, zoals figuur 1_Rplot_Volcano_plot_Zoom.png
+Het handigst is om te benoemen wat ze bevatten of waar ze mogelijk als refenrentie worden gebruikt. Bijvoorbeel: de bron waaruit de data van de patiëntn in staat heet, bron voor patiënten.pdf. Want daar komt de gebruikte data vandaan. Een ander voorbeeld zijn de resultaten, die hebben een figuur nummer gekregen en wat voor figuur het is, zoals figuur 1_Rplot_Volcano_plot_Zoom.png
 
 ❥  Wat houdt versiebeheer in en waarom doe je dit?
+Als er mogelijk fouten of onverwachte wijzingingen plaats vinden, kan je altijd naar de vorige versies gaan, waar dit niet zo is om daarin verder te werken en alles goed uit te voeren.
+
 ❥  Hoe zorg je voor goede documentatie in scripts?
+Door in R een # toe te voegen kan je commentaar plaatsen om uit te leggen wat de functie van deze code doet en waarin het zou resulteren als je hem runt. Ook in de README.md zit er een materiaal en methode die toelicht op wat er in R wordt uitgevoerd.
+
 ❥  Wat voor platforms kan je gebruiken om scripts te delen?
+Momenteel maken wij gebruik van GITHUB, maar GITLAB is er ook om gebruik van te maken als iemand zijn scripts wil delen. Als het gaat om prive uitwisselen van scripts kan er altijd naar platforms als outlook, gmail of Whatsapp
+
 ❥  Welke tools gebruik je voor data-analyse, zoals bijvoorbeeld voor het veilig opslaan van data?
+Ik maak gebruik voor R voor de data-analyse, Python zou ook mogelijk een optie kunnen zijn. Voor het veilig opslaan van data, is momenteel de ONEDRIVE van mijn NHLstenden account de manier, zo staat het in de cloud en heb ik er toegang tot vanaf meerdere apparaten, als ik inlog op mijn ONEDRIVE
+
 ❥  Hoe zou je omgaan met gevoelige of persoonlijke data?
+In dit project was de data niet gelinkt aan persoonsgegevens omdat deze openbaar was, zou dt wel zo zijn, moet er zich aan privacy regels worden gehouden, en gebruik gemaakt worden van pseudonymen, en deze gevoelige data versleutelen en beveiligd opslaan.
+
 ❥  Wat is het belang van open data en het publiceren van datasets?
+Om zo op deze manier kunnen andere onderzoekers, zelfstandig de resultaten controleren, maar ook het onderzoek herhalen als dat gewenst is en ook kan de data gebruikt worden voor andere onderzoeken met andere doelstellingen. 
+Dit resulteert uin open science, oftewel transparantie.
