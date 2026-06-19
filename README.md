@@ -23,7 +23,7 @@
 
 ## 🩺Inleiding
 
-Reumatoïde artritis (RA) is een chronische auto-immuunziekte die voornamelijk ontstekingen in de gewrichtslijmvlies veroorzaakt, wat leidt tot pijn en zwellingen. In westerse landen heeft ongeveer 0,5–1,0% van de bevolking RA. Vrouwen hebben hierbij een 2 tot 3 keer grotere kans om RA te ontwikkelen dan mannen. Het levenslange risico op het ontwikkelen van RA bedraagt ongeveer 3,6% voor vrouwen en 1,7% voor mannen. Genetica speelt een grote rol bij het ontstaan van RA: de erfelijkheid van de ziekte wordt geschat op 60%. Ook omgevingsfactoren spelen een rol. Zo hebben mensen die roken een grotere kans om RA te ontwikkelen (Jang et al., 2022). Hoe RA precies ontstaat, is echter nog niet volledig duidelijk en echter is er ook geen remedie. Wanneer naar de genetische kant van RA wordt gekeken, blijken verschillende genen bij te dragen aan een verhoogde gevoeligheid voor de ziekte. De belangrijkste genetische risicofactor bevindt zich in het Human Leukocyte Antigen (HLA)-gebied op chromosoom 6, met name het HLA-DRB1-gen, dat betrokken is bij de presentatie van antigenen aan T-cellen. Daarnaast zijn ook genen zoals PTPN22, STAT4 en PADI4 in verband gebracht met een verhoogd risico op RA. Door middel van genoombrede associatiestudies zijn inmiddels meer dan 100 genetische loci geïdentificeerd die geassocieerd zijn met de ziekte. Dit benadrukt dat RA een complexe genetische achtergrond heeft waarbij meerdere genen bijdragen aan het ontstaan van de ziekte (Kurko et al., 2013). Het doel van dit onderzoek is om genen en pathways te identificeren met het gebruik van transcriptomics analyse, waarbij er R gebruikt wordt om zo met verschillende analyses de betrokken genen en pathways te visualiseren. Hierbij is de gestelde onderzoeksvraag is, welke veranderingen in de expressie van genen en activatie van immuunpathways kunnen bijdragen aan de ontwikkeling en de gewrichtsvernieteging van ACPA-positieve patiënten in tegenstelling tot ACPA-negatieve controle's? 
+Reumatoïde artritis (RA) is een chronische auto-immuunziekte die voornamelijk ontstekingen in de gewrichtslijmvlies veroorzaakt, wat leidt tot pijn en zwellingen. In westerse landen heeft ongeveer 0,5–1,0% van de bevolking RA. Vrouwen hebben hierbij een 2 tot 3 keer grotere kans om RA te ontwikkelen dan mannen. Het levenslange risico op het ontwikkelen van RA bedraagt ongeveer 3,6% voor vrouwen en 1,7% voor mannen. Genetica speelt een grote rol bij het ontstaan van RA: de erfelijkheid van de ziekte wordt geschat op 60%. Ook omgevingsfactoren spelen een rol. Zo hebben mensen die roken een grotere kans om RA te ontwikkelen (Jang et al., 2022). Hoe RA precies ontstaat, is echter nog niet volledig duidelijk en echter is er ook geen remedie, wederom is de aanwezigheid van ACPA-antilichamen een belkangrijke marker voor een vroege diagnose van RA (Kurowska et al., 2017). Wanneer naar de genetische kant van RA wordt gekeken, blijken verschillende genen bij te dragen aan een verhoogde gevoeligheid voor de ziekte. De belangrijkste genetische risicofactor bevindt zich in het Human Leukocyte Antigen (HLA)-gebied op chromosoom 6, met name het HLA-DRB1-gen, dat betrokken is bij de presentatie van antigenen aan T-cellen. Daarnaast zijn ook genen zoals PTPN22, STAT4 en PADI4 in verband gebracht met een verhoogd risico op RA. Door middel van genoombrede associatiestudies zijn inmiddels meer dan 100 genetische loci geïdentificeerd die geassocieerd zijn met de ziekte. Dit benadrukt dat RA een complexe genetische achtergrond heeft waarbij meerdere genen bijdragen aan het ontstaan van de ziekte (Kurko et al., 2013). Het doel van dit onderzoek is om genen en pathways te identificeren met het gebruik van transcriptomics analyse, waarbij er R gebruikt wordt om zo met verschillende analyses de betrokken genen en pathways te visualiseren. Hierbij is de gestelde onderzoeksvraag is, welke veranderingen in de expressie van genen en activatie van immuunpathways kunnen bijdragen aan de ontwikkeling en de gewrichtsvernieteging van ACPA-positieve patiënten in tegenstelling tot ACPA-negatieve controle's? 
 
 
 
@@ -144,5 +144,19 @@ mapje
 
 ---
 ## ⚖️Bronnen
+
+Platzer A, Nussbaumer T, Karonitsch T, Smolen JS, Aletaha D. Analysis of gene expression in rheumatoid arthritis and related conditions offers insights into sex-bias, gene biotypes and co-expression patterns. PLoS One. 2019 Jul 25;14(7):e0219698. doi: 10.1371/journal.pone.0219698. PMID: 31344123; PMCID: PMC6657850. 
+
+Yap HY, Tee SZ, Wong MM, Chow SK, Peh SC, Teow SY. Pathogenic Role of Immune Cells in Rheumatoid Arthritis: Implications in Clinical Treatment and Biomarker Development. Cells. 2018 Oct 9;7(10):161. doi: 10.3390/cells7100161. PMID: 30304822; PMCID: PMC6211121.
+
+Kurkó J, Besenyei T, Laki J, Glant TT, Mikecz K, Szekanecz Z. Genetics of rheumatoid arthritis - a comprehensive review. Clin Rev Allergy Immunol. 2013 Oct;45(2):170-9. doi: 10.1007/s12016-012-8346-7. PMID: 23288628; PMCID: PMC3655138. 
+
+Kurowska, W., Kuca-Warnawin, E. H., Radzikowska, A., & Maśliński, W. (2017). The role of anti-citrullinated protein antibodies (ACPA) in the pathogenesis of rheumatoid arthritis. Central European Journal of Immunology, 42(4), 390–398. https://doi.org/10.5114/ceji.2017.72807  
+
+Kijowski R, Sharafi A, Zibetti MVW, Chang G, Cloos MA, Regatte RR. Age-Dependent Changes in Knee Cartilage T1 , T2 , and T1p Simultaneously Measured Using MRI Fingerprinting. J Magn Reson Imaging. 2023 Jun;57(6):1805-1812. doi: 10.1002/jmri.28451. Epub 2022 Oct 3. PMID: 36190187; PMCID: PMC10067532.
+
+
+
+
 
   
