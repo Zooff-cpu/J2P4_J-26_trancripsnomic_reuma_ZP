@@ -75,7 +75,7 @@ De KEGG pathway verrijkingsanalyse identificeerde verschillende significant verr
 </td>
 </tr>
 </table>
-___
+_____
 
 **🌸Pathway analyse**
 
@@ -94,7 +94,7 @@ ___
 **Onderzoeksvraag**
 
 
-## 🌼AI gebruik en competenties
+## 🌼AI gebruik
 
 **🖥️AI gebruik**
 Bij het maken van deze github pagina is er gebruik gemaakt van AI, specifiek met chatGPT.
@@ -105,7 +105,5 @@ Voor de verkregen resultaten, is chatGPT gebruikt, ter ondersteuning van de anal
 In R, is AI gebruikt voor:
 - ondersteuning van de zelfgeschreven code in de script, omdat naturlijk niet altijd alles werkt en daarbij chatGPT mogelijke oplossingen brengt.
 - Het sorteren van het script, betere overzicht van alle getypte code.
-____
 
-**⚖️compententies**
   
