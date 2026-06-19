@@ -113,7 +113,7 @@ De RNA-data van de vier vrouwen met reumatoïde artritis (RA) en de vier control
 
 
 
-
+---
 
 ## 🩹Conclusie
 
@@ -122,7 +122,7 @@ Op basis van de resultaten die gebaseerd zijn op de RNA-data uit het onderzoek, 
 Hierbij moet er nog wel worden gekeken naar enige beperkingen in het onderzoek.
 Er waren 8 vrouwen die deelnamen aan het onderzoek, waarvan vier vrouwen ACPA+ met >12 maanden gediagnosteerd RA. En 4 ACPA - controle vrouwen, dit is een laag aantal deelnemers en zouden voor betrouwbaarheid van de resultaten wel voor verder onderzoek naar meer deelnemers mogen worden gekeken. Daarnaast zat er een grote gat tussen de leeftijden van de deelnemers, de controle groep hadden een leeftijd van tussen de 20-40 en de RA psotieve vrouwen hadden een leeftijd van 50-70. Hierbij is er met leeftijd ook mogelijk invloed om dat kraakbeen degradeert naarmate de toename van de leeftijd van de persoon (Kijowski et al., 2022).
 
-
+---
 
 ## 🌼AI gebruik
 
@@ -136,6 +136,13 @@ In R, is AI gebruikt voor:
 - ondersteuning van de zelfgeschreven code in de script, omdat naturlijk niet altijd alles werkt en daarbij chatGPT mogelijke oplossingen brengt.
 - Het sorteren van het script, betere overzicht van alle getypte code.
 
+---
 ## Compententies
+
+mapje
+
+
+---
+## ⚖️Bronnen
 
   
