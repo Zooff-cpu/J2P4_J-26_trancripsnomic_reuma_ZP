@@ -14,6 +14,10 @@
 
 ♥  `Bronnen/` Literatuur en referenties voor binnen dit project
 
+♥  `Compententies/` Het beheren van data en het gebruiken van Github
+
+♥  `Bewerkt_data/` Het ruwe data dat is bewerkt in R
+
 ♥  `Raw_Data/` Verkregen ruwe data gebruikt in het project
 
 ♥  `Resultaten/` Output uit analysem figuren, grafieken en tabellen
