@@ -53,10 +53,10 @@ In figuur 3 is zichtbaar in de GO-verrijkingsanalyse dat er een sterke toename t
 ___
 **🌸KEGG-pathway analyse in dotplot en barplot**
 
-De KEGG pathway analyse liet zien dat meerdere ontstekings- en immuungerelateerde pathways significant verrijkt waren in de dataset (Figuur 3). De hoogste GeneRatio werd gevonden voor de MAPK signaling pathway (≈0,05), gevolgd door Epstein-Barr virus infection en de NOD-like receptor signaling pathway. Daarnaast werden ook de TNF signaling pathway, NF-kappa B signaling pathway, Th17 cell differentiation en de IL-17 signaling pathway verrijkt gevonden.
+De KEGG pathway analyse liet zien dat meerdere ontstekings- en immuungerelateerde pathways significant verrijkt waren in de dataset (Figuur 3A). De hoogste GeneRatio werd gevonden voor de MAPK signaling pathway (≈0,05), gevolgd door Epstein-Barr virus infection en de NOD-like receptor signaling pathway. Daarnaast werden ook de TNF signaling pathway, NF-kappa B signaling pathway, Th17 cell differentiation en de IL-17 signaling pathway verrijkt gevonden.
 De grootste aantallen genen werden waargenomen voor de MAPK signaling pathway, terwijl pathways zoals Leishmaniasis en de IL-17 signaling pathway minder genen bevatten. Alle weergegeven pathways waren statistisch significant (adjusted p-value < 0,001), waarbij de sterkste significantie werd gevonden voor onder andere de TNF signaling pathway, NF-kappa B signaling pathway en Leishmaniasis.
 
-De KEGG pathway verrijkingsanalyse identificeerde verschillende significant verrijkte pathways in de differentieel tot expressie komende genen tussen ACPA-positieve RA-patiënten en ACPA-negatieve controles (Figuur 4). De hoogste aantallen genen werden gevonden in de *MAPK signaling pathway*, gevolgd door *Epstein-Barr virus infection* en de *NOD-like receptor signaling pathway*. Daarnaast waren ook de *TNF signaling pathway*, *Protein processing in endoplasmic reticulum* en *NF-kappa B signaling pathway* sterk vertegenwoordigd. De kleur van de balken weerspiegelt de aangepaste p-waarde, waarbij felrode balken wijzen op een hogere statistische significantie dan donkerrode of blauwe balken. De *NOD-like receptor signaling pathway*, *TNF signaling pathway* en *NF-kappa B signaling pathway* behoorden tot de meest significante pathways. Verder werden verrijkingen waargenomen in ontstekings- en immuungerelateerde pathways, waaronder de *IL-17 signaling pathway*, *Th17 cell differentiation* en de *AGE-RAGE signaling pathway in diabetic complications*.
+De KEGG pathway verrijkingsanalyse identificeerde verschillende significant verrijkte pathways in de differentieel tot expressie komende genen tussen ACPA-positieve RA-patiënten en ACPA-negatieve controles (Figuur 3B). De hoogste aantallen genen werden gevonden in de *MAPK signaling pathway*, gevolgd door *Epstein-Barr virus infection* en de *NOD-like receptor signaling pathway*. Daarnaast waren ook de *TNF signaling pathway*, *Protein processing in endoplasmic reticulum* en *NF-kappa B signaling pathway* sterk vertegenwoordigd. De kleur van de balken weerspiegelt de aangepaste p-waarde, waarbij felrode balken wijzen op een hogere statistische significantie dan donkerrode of blauwe balken. De *NOD-like receptor signaling pathway*, *TNF signaling pathway* en *NF-kappa B signaling pathway* behoorden tot de meest significante pathways. Verder werden verrijkingen waargenomen in ontstekings- en immuungerelateerde pathways, waaronder de *IL-17 signaling pathway*, *Th17 cell differentiation* en de *AGE-RAGE signaling pathway in diabetic complications*.
 
 
 
@@ -65,31 +65,47 @@ De KEGG pathway verrijkingsanalyse identificeerde verschillende significant verr
 <tr>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/9f92dec3-cbbd-4219-b8cf-fa0ace7000f8" width="420"><br>
-<b>Figuur 3.</b> KEGG pathway in een dotplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles.
+<b>Figuur 3A.</b> KEGG pathway in een dotplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles.
 </td>
 
 
 <td align="center">
 <img src="https://github.com/user-attachments/assets/fcb35979-4d46-4895-9753-239251d322c5" width="420"><br>
-<b>Figuur 4.</b> KEGG pathway in een balkplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles.
+<b>Figuur 3B.</b> KEGG pathway in een balkplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles.
 </td>
 </tr>
 </table>
 
-<sub><b>Figuur 3.</b> <i>***KEGG pathway in een dotplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles. De x-as toont de aandeel van genen gekoppeld aan een pathway (GeneRatio), waarbij de y-as verschillende KEGG-pathways weergeeft. De grootte van de stip laat de aantal gekoppelde genen zien en de kleur de significantie van de p-waarde (n=8).***.</i></sub>
+<sub><b>Figuur 3A.</b> <i>***KEGG pathway in een dotplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles. De x-as toont de aandeel van genen gekoppeld aan een pathway (GeneRatio), waarbij de y-as verschillende KEGG-pathways weergeeft. De grootte van de stip laat de aantal gekoppelde genen zien en de kleur de significantie van de p-waarde (n=8).***.</i></sub>
 
-<sub><b>Figuur 4.</b> <i>***KEGG pathway in een balkplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles. De x-as toont de aandeel van genen gekoppeld aan een pathway (count), waarbij de y-as verschillende KEGG-pathways weergeeft. De balken staan gelijk aan een pathway en de lengte van de balk visualiseert hoeveel genen zijn betrokken aan die pathway, en de kleur de significantie van de p-waarde (n=8).***.</i></sub>
+<sub><b>Figuur 3B.</b> <i>***KEGG pathway in een balkplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles. De x-as toont de aandeel van genen gekoppeld aan een pathway (count), waarbij de y-as verschillende KEGG-pathways weergeeft. De balken staan gelijk aan een pathway en de lengte van de balk visualiseert hoeveel genen zijn betrokken aan die pathway, en de kleur de significantie van de p-waarde (n=8).***.</i></sub>
 
 
 _____
 
 **🌸KEGG pathway analyse in diagram**
 
+De RNA-data van de vier vrouwen met reumatoïde artritis (RA) en de vier controlepersonen zijn geanalyseerd via twee KEGG-pathway diagrammen, waarbij Figuur 5 alle significant veranderde genen markeert en Figuur 6 de expressierichting toont (rood voor upregulatie; groen voor downregulatie). Binnen de pathway lichten genen op in vier hoofdroutes met specifieke patronen. Ten eerste is er bij de immuuncel-interactie een sterke upregulatie te zien van de costimulerende receptoren CD80/86, CD28 en CTLA4, evenals IL15 en LFA1, terwijl de receptor MHCII juist omlaag is gereguleerd. Ten tweede is binnen de ontstekingscascade het cytokine IL1 (en IL1$\beta$) sterk omhoog gereguleerd in macrofagen — in tegenstelling tot IL6 en TNF$\alpha$ die onveranderd bleven — samen met de chemokines CCL2 en CXCL1 die de celmigratie aansturen. Ten derde laat de angiogenese-route zien dat de receptor Tie2 is verhoogd, terwijl VEGF en CXCL5 een verlaagde expressie tonen. Ten slotte is er bij de weefselafbraak een duidelijke splitsing zichtbaar: het kraakbeenafbrekende enzym MMP1/3 is sterk omhoog gereguleerd, terwijl de specifieke botafbrekende factoren CTSL en V-ATPase in de osteoclasten juist omlaag zijn gereguleerd.
 
-<img width="1492" height="859" alt="Pathway_view_Referentie_ingezoomd" src="https://github.com/user-attachments/assets/cec99511-afa9-4b85-84e8-dbe0967c9bca" />
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/cec99511-afa9-4b85-84e8-dbe0967c9bca" width="420"><br>
+<b>Figuur 5A.</b> KEGG pathway verrijkingsanalyse van de differentieel tot significant expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles.
+</td>
 
 
-<img width="1492" height="859" alt="Pathway_view_Differentiele_Genexpressie_ingezoomd" src="https://github.com/user-attachments/assets/580a067d-bb02-42c7-8fa5-98bdd7da1f15" />
+<td align="center">
+<img src="https://github.com/user-attachments/assets/580a067d-bb02-42c7-8fa5-98bdd7da1f15" width="420"><br>
+<b>Figuur 5B.</b> KEGG pathway in een verrijkingsanalyse van de differentieel tot significant expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles. 
+</td>
+</tr>
+</table>
+
+<sub><b>Figuur 5.</b> <i>***KEGG-pathway analyse van de reumatoïde artritis route. (a) Algemene verrijking van de route, waarbij alle significant veranderde genen en eiwitten uit de R-analyse groen zijn gemarkeerd tegen de standaard biologische achtergrond (wit/grijs).
+(b) Differentiële genexpressie binnen dezelfde route, waarbij de kleurenbalk (legenda van -1 tot +1) de exacte richting van de expressieverandering bij de RA-groep ten opzichte van de controles aangeeft. Rode vakjes duiden op een verhoogde expressie (upregulatie) en groene vakjes op een verlaagde expressie (downregulatie) (8=n).***.</i></sub>
+
+
 
 
 
