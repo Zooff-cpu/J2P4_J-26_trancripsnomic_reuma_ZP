@@ -8,13 +8,15 @@
 
 ## 🌸Inhoud
 ---
-♥  `Data/`
+♥  `Assets/`
 
-♥  `Scripts/`
+♥  `Bronnen/`
+
+♥  `Raw_Data/`
 
 ♥  `Resultaten/`
 
-♥  `Referenties/`
+♥  `Scripts_R/`
 
 
 ## 🩺Inleiding
@@ -102,8 +104,8 @@ De RNA-data van de vier vrouwen met reumatoïde artritis (RA) en de vier control
 </tr>
 </table>
 
-<sub><b>Figuur 5.</b> <i>***KEGG-pathway analyse van de reumatoïde artritis route. (a) Algemene verrijking van de route, waarbij alle significant veranderde genen en eiwitten uit de R-analyse groen zijn gemarkeerd tegen de standaard biologische achtergrond (wit/grijs).
-(b) Differentiële genexpressie binnen dezelfde route, waarbij de kleurenbalk (legenda van -1 tot +1) de exacte richting van de expressieverandering bij de RA-groep ten opzichte van de controles aangeeft. Rode vakjes duiden op een verhoogde expressie (upregulatie) en groene vakjes op een verlaagde expressie (downregulatie) (8=n).***.</i></sub>
+<sub><b>Figuur 5.</b> <i>***KEGG-pathway analyse van de reumatoïde artritis route. (5a) Algemene verrijking van de route, waarbij alle significant veranderde genen en eiwitten uit de R-analyse groen zijn gemarkeerd tegen de standaard biologische achtergrond (wit/grijs).
+(5b) Differentiële genexpressie binnen dezelfde route, waarbij de kleurenbalk (legenda van -1 tot +1) de exacte richting van de expressieverandering bij de RA-groep ten opzichte van de controles aangeeft. Rode vakjes duiden op een verhoogde expressie (upregulatie) en groene vakjes op een verlaagde expressie (downregulatie) (8=n).***.</i></sub>
 
 
 
@@ -111,15 +113,7 @@ De RNA-data van de vier vrouwen met reumatoïde artritis (RA) en de vier control
 
 ## 🩹Conclusie
 
-**Volcano dotplot**
 
-**GO-analyse**
-
-**KEGG-pathways**
-
-**Differentïele genexpressie pathway's**
-
-**Onderzoeksvraag**
 
 
 ## 🌼AI gebruik
