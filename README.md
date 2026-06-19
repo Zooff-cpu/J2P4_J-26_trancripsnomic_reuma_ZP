@@ -115,10 +115,9 @@ De RNA-data van de vier vrouwen met reumatoïde artritis (RA) en de vier control
 
 ## 🩹Conclusie
 
-Op basis van de resultaten die uiteindelijk zijn gebaseerd op de RNA-data verworven uit het onderzoek, kan worden geconcludeerd dat de ontwikkeling van reumatoïde artritis (RA) bij deze patiënten wordt gedreven door een ontspoorde immuuntolerantie, dit wordt gekenmertk door de upregulatie van specifieke immunoglobuline-genen *(IGHV4-4, IGHG4, IGKV1-39)* en B-celprocessen. Wat aansluit bij de ACPA-positieve status van vrouwen met RA. 
+Op basis van de resultaten die uiteindelijk zijn gebaseerd op de RNA-data verworven uit het onderzoek, kan worden geconcludeerd dat de ontwikkeling van reumatoïde artritis (RA) bij deze patiënten wordt gedreven door een ontspoorde immuuntolerantie, dit wordt gekenmertk door de upregulatie van specifieke immunoglobuline-genen *(IGHV4-4, IGHG4, IGKV1-39)* en B-celprocessen. Wat aansluit bij de ACPA-positieve status van de vrouwen met RA. 
 De chronische gewrichtsschade die bij RA ontstaat komt doordat deze geactiveerde immuuncellen via centrale signaalroutes *(zoals MAPK, TNF en NF-$\kappa$B)* communiceren met het lokale gewrichtsweefsel. Dit zet een cascade in werking van verhoogde celmigratie *(CD80/86, CD28, CCL2, CXCL1)* en ontstekingscytokines *(IL1, IL1$\beta$)*. De gevolgen van deze cascade van verhoogde celmigratie en ontstekingcytokines zorgt direct voor actieve weefseldestructie, wat biologisch wordt bewezen door de sterke upregulatie van het kraakbeenafbrekende enzym *MMP1/3*. Wat ook opvallen is dat specifieke botafbraakfactoren *(CTSL, V-ATPase)* op dit meetpunt juist omlaag gereguleerd zijn. 
-
-antwoord onderzoeksvraag
+Hierbij als naar de onderzoeksvraag wordt gekeken: Welke veranderingen in de expressie van genen en activatie van immuunpathways kunnen bijdragen aan de ontwikkeling en de gewrichtsvernieteging van ACPA-positieve patiënten in tegenstelling tot ACPA-negatieve controle's? Waarbij er kan worden geconlcludeerd dat er bij de patiënten met ACPA-positeive RA. Dat er een upregulatie is van expressie van genen en immunpahtways die te maken hebben met een toename van weefseldestructie namate de RA zich verder ontwikkeld. 
 
 betrowhbaarheud
 want n=8 
