@@ -1,9 +1,17 @@
-Waarom is dit een belangrijk onderdeel van onderzoek doen?
-Wat is een duidelijke mappenstructuur en waarom houd je dat aan?
-Wat is een handige manier voor de naamgeving van bestanden en waarom?
-Wat houdt versiebeheer in en waarom doe je dit?
-Hoe zorg je voor goede documentatie in scripts?
-Wat voor platforms kan je gebruiken om scripts te delen?
-Welke tools gebruik je voor data-analyse, zoals bijvoorbeeld voor het veilig opslaan van data?
-Hoe zou je omgaan met gevoelige of persoonlijke data?
-Wat is het belang van open data en het publiceren van datasets?
+Uitleg over een efficiënte en gestructureerde manier van beheren.
+
+❥  Waarom is dit een belangrijk onderdeel van onderzoek doen?
+Omdat je op deze manier, al je data, vindbaar blijft, maar ok betrouwbaar en makkelijk te gebruiken. Zonder dat dit gebeurt, maak je sneller fouten en is het lastiger om voor iemand anders de onderzoek te reproduceren. 
+
+❥  Wat is een duidelijke mappenstructuur en waarom houd je dat aan?
+Een duidelijke mappen structuur is als je alles sorteert, Literatuur/bronnen bij elkaar, scripts in één map, resultaten bij elkaar, Ruwe data bij elkaar en verwerkte data bij elkaar. Ook een mogelijke optie is om hieronder nog een extra mapjes toetevoegen voor extra overzicht en kleinere kans op fouten.
+
+❥  Wat is een handige manier voor de naamgeving van bestanden en waarom?
+Het handigst is om te benoemen wat ze bevatten of waar ze mogelijk als refenrentie worden gebruikt. Bijvoorbeel: 
+
+❥  Wat houdt versiebeheer in en waarom doe je dit?
+❥  Hoe zorg je voor goede documentatie in scripts?
+❥  Wat voor platforms kan je gebruiken om scripts te delen?
+❥  Welke tools gebruik je voor data-analyse, zoals bijvoorbeeld voor het veilig opslaan van data?
+❥  Hoe zou je omgaan met gevoelige of persoonlijke data?
+❥  Wat is het belang van open data en het publiceren van datasets?
