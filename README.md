@@ -10,15 +10,17 @@
 
 ## 🌸Inhoud
 ---
-♥  `Assets/`
+♥  `Assets/` Overige documenten
 
-♥  `Bronnen/`
+♥  `Bronnen/` Literatuur en referenties voor binnen dit project
 
-♥  `Raw_Data/`
+♥  `Raw_Data/` Verkregen ruwe data gebruikt in het project
 
-♥  `Resultaten/`
+♥  `Resultaten/` Output uit analysem figuren, grafieken en tabellen
 
-♥  `Scripts_R/`
+♥  `Scripts_R/` R-script, van het verwerken van het data en het visualiseren
+
+♥  `README.md/` overzicht en uitleg over het project, behoud, doel, inleiding, methode, resultaten, conclusie en AI gebruik
 
 
 ## 🩺Inleiding
@@ -135,11 +137,6 @@ Voor de verkregen resultaten, is AI gebruikt, ter ondersteuning van de analyse v
 In R, is AI gebruikt voor:
 - ondersteuning van de zelfgeschreven code in de script, omdat naturlijk niet altijd alles werkt en daarbij chatGPT mogelijke oplossingen brengt.
 - Het sorteren van het script, betere overzicht van alle getypte code.
-
----
-## Compententies
-
-mapje
 
 
 ---
