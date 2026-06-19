@@ -65,16 +65,22 @@ De KEGG pathway verrijkingsanalyse identificeerde verschillende significant verr
 <tr>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/9f92dec3-cbbd-4219-b8cf-fa0ace7000f8" width="420"><br>
-<b>Figuur 3.</b> KEGG pathway in een dotplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles. De x-as toont de aandeel van genen gekoppeld aan een pathway (GeneRatio), waarbij de y-as verschillende KEGG-pathways weergeeft. De grootte van de stip laat de aantal gekoppelde genen zien en de kleur de significantie van de p-waarde (n=8).
+<b>Figuur 3.</b> KEGG pathway in een dotplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles.
 </td>
 
 
 <td align="center">
 <img src="https://github.com/user-attachments/assets/fcb35979-4d46-4895-9753-239251d322c5" width="420"><br>
-<b>Figuur 4.</b> KEGG pathway in een balkplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles. De x-as toont de aandeel van genen gekoppeld aan een pathway (count), waarbij de y-as verschillende KEGG-pathways weergeeft. De balken staan gelijk aan een pathway en de lengte van de balk visualiseert hoeveel genen zijn betrokken aan die pathway, en de kleur de significantie van de p-waarde (n=8).
+<b>Figuur 4.</b> KEGG pathway in een balkplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles.
 </td>
 </tr>
 </table>
+
+<sub><b>Figuur 3.</b> <i>***KEGG pathway in een dotplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles. De x-as toont de aandeel van genen gekoppeld aan een pathway (GeneRatio), waarbij de y-as verschillende KEGG-pathways weergeeft. De grootte van de stip laat de aantal gekoppelde genen zien en de kleur de significantie van de p-waarde (n=8).***.</i></sub>
+
+<sub><b>Figuur 4.</b> <i>***KEGG pathway in een balkplot verrijkingsanalyse van de differentieel tot expressie gebrachte genen tussen ACPA+ patiënten met RA en ACPA- controles. De x-as toont de aandeel van genen gekoppeld aan een pathway (count), waarbij de y-as verschillende KEGG-pathways weergeeft. De balken staan gelijk aan een pathway en de lengte van de balk visualiseert hoeveel genen zijn betrokken aan die pathway, en de kleur de significantie van de p-waarde (n=8).***.</i></sub>
+
+
 _____
 
 **🌸Pathway analyse**
