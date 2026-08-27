@@ -50,7 +50,7 @@ Bij dit onderzoek, participeerde acht vrouwen. Vier van deze vrouwen, waren voor
 
 ## 💻Resultaten
 
-**🌸Volcano dotplot**
+**🌸Differentiële genexpressie laat sterke verschillen zien tussen ACPA-positieve RA-patiënten en controles**
 
 RNA-sequencing van 4 ACPA-positieve RA-patiënten en 4 ACPA-negatieve controles identificeerde meerdere differentieel geëxprimeerde genen. In de volcano plot (figuur 3) vertegenwoordigen rode punten genen die zowel een significante p-waarde als een sterke verandering in expressie vertonen, terwijl groene punten alleen een significante fold change laten zien. De meest opvallende opgereguleerde genen waren *SRGN*, *PTGFR*, *ADAMTS6*, *CXCR1*, *IGHV4-4*, *IGHG4* en *IGKV1-39*. Sterk neer-gereguleerde genen waren onder andere *ANKRD30BL*, *MT-ND6*, *RAB3IL1*, *SLC9A3R2* en *ZNF598*. Deze resultaten wijzen mogelijk op een verhoogde immuunactiviteit in de ACPA-positieve groep ten opzichte van de controle groep.
 
@@ -58,7 +58,7 @@ RNA-sequencing van 4 ACPA-positieve RA-patiënten en 4 ACPA-negatieve controles 
 
 <sub><b>Figuur 3.</b> <i>***Volcano plot van differentiële genexpressie in synoviale biopsieën van ACPA-positieve reumatoïde artritis (RA)-patiënten ten opzichte van ACPA-negatieve controles. De x-as geeft de log2 fold change weer, waarbij positieve waarden een hogere en negatieve waarden een lagere genexpressie in de RA-groep aangeven. De y-as geeft de −log10 van de aangepaste p-waarde weer. Een gen werd als sterk differentieel geëxprimeerd beschouwd bij een aangepaste p-waarde (padj) < 0,05 en |log2 fold change| > 1, overeenkomend met minimaal een twee-voudige verandering in expressie. Rood weergegeven genen voldoen aan beide criteria. De kleurcodering voor de overige genen volgt de gebruikte EnhancedVolcano-instellingen. Elk punt vertegenwoordigt één gen (n = 8).)***.</i></sub>
 ___
-**🌸Go-analyse**
+**🌸Differentieel geëxprimeerde genen zijn voornamelijk betrokken bij immuungerelateerde processen**
 
 Om te bepalen welke biologische processen oververtegenwoordigd zijn onder de sterk differentieel geëxprimeerde genen, werd een Gene Ontology (GO) Biological Process-verrijkingsanalyse uitgevoerd met clusterProfiler. De analyse liet voornamelijk verrijking zien van immuun- en lymfocytgerelateerde biologische processen, waaronder lymfocytdifferentiatie, leukocyt-gemedieerde immuniteit, B-celactivatie, T-celdifferentiatie en immunoglobuline-gemedieerde immuunrespons (Figuur 4).
 
@@ -70,7 +70,7 @@ Gezamenlijk wijzen de GeneRatio, het aantal betrokken genen en de aangepaste p-w
 
 <sub><b>Figuur 4.</b> <i>***GO Biological Process-dotplot van de verrijkingsanalyse van sterk differentieel geëxprimeerde genen in synoviale biopsieën van ACPA-positieve RA-patiënten ten opzichte van ACPA-negatieve controles. De y-as toont de verrijkte GO Biological Process-termen en de x-as de GeneRatio, het aandeel van de ingevoerde genen dat aan de betreffende GO-term is gekoppeld. De grootte van iedere stip geeft het aantal gekoppelde genen (Count) weer en de kleur geeft de aangepaste p-waarde (p.adjust) weer; een lagere aangepaste p-waarde wordt weergegeven met een intensere kleur. Alleen de 15 meest weergegeven GO-termen zijn weergegeven.(n = 8)***.</i></sub>
 ___
-**🌸KEGG-pathway analyse in dotplot en barplot**
+**🌸Immuun- en ontstekingsgerelateerde KEGG-pathways zijn significant verrijkt**
 
 Om te bepalen welke cellulaire signaalroutes oververtegenwoordigd waren onder de sterk differentieel geëxprimeerde genen, werd een KEGG pathway-verrijkingsanalyse uitgevoerd met clusterProfiler. Verschillende immuun- en ontstekingsgerelateerde pathways waren verrijkt in de ACPA-positieve RA-groep ten opzichte van de ACPA-negatieve controles (Figuur 5A en 5B). De MAPK signaling pathway had de hoogste GeneRatio en behoorde tevens tot de pathways met het grootste aantal betrokken genen. Ook Epstein-Barr virus infection en de NOD-like receptor signaling pathway vertoonden een relatief hoge GeneRatio. Daarnaast werden onder andere de TNF signaling pathway, NF-kappa B signaling pathway, Th17 cell differentiation en IL-17 signaling pathway verrijkt.
 
@@ -102,7 +102,7 @@ De verrijking van onder andere de TNF, NF-kappa B, NOD-like receptor, IL-17 en T
 
 _____
 
-**🌸KEGG pathway analyse in diagram**
+**🌸Differentiële genexpressie binnen de RA-pathway toont veranderingen in ontsteking en weefselafbraak**
 
 Om de differentiële genexpressie te lokaliseren binnen een biologisch relevante RA-signaalroute, werd de KEGG Rheumatoid Arthritis-pathway (hsa05323) gevisualiseerd met Pathview. Figuur 6A toont de volledige Rheumatoid Arthritis-pathway, inclusief de genen en eiwitten die volgens KEGG onderdeel zijn van deze route. Figuur 6B toont binnen dezelfde pathway de differentiële genexpressie tussen ACPA-positieve RA-patiënten en ACPA-negatieve controles, waarbij alleen genen die volgens de gebruikte selectiecriteria differentieel tot expressie kwamen, gekleurd zijn.
 
