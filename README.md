@@ -56,7 +56,7 @@ RNA-sequencing van 4 ACPA-positieve RA-patiënten en 4 ACPA-negatieve controles 
 
 <img width="1917" height="982" alt="Rplot_Volcano_plot_Zoom" src="https://github.com/user-attachments/assets/6efe6407-06b3-462e-a518-2161b8b2b6b6" />
 
-<sub><b>Figuur 3.</b> <i>***Volcano plot van differentiële genexpressie in slijmvliesbiopten van ACPA-positieve reumatoïde artritis (RA) patiënten ten opzichte van ACPA-negatieve controles. De x-as geeft de log2 fold change weer, waarbij positieve waarden een verhoogde genexpressie en negatieve waarden een verlaagde genexpressie aangeven. De y-as toont de statistische significantie als -log10(p-waarde). Punten boven de ingestelde significantiedrempel vertegenwoordigen differentieel tot expressie komende genen. Elke stip representeert één gen.(n = 8)***.</i></sub>
+<sub><b>Figuur 3.</b> <i>***Volcano plot van differentiële genexpressie in synoviale biopsieën van ACPA-positieve reumatoïde artritis (RA)-patiënten ten opzichte van ACPA-negatieve controles. De x-as geeft de log2 fold change weer, waarbij positieve waarden een hogere en negatieve waarden een lagere genexpressie in de RA-groep aangeven. De y-as geeft de −log10 van de aangepaste p-waarde weer. Een gen werd als sterk differentieel geëxprimeerd beschouwd bij een aangepaste p-waarde (padj) < 0,05 en |log2 fold change| > 1, overeenkomend met minimaal een twee-voudige verandering in expressie. Rood weergegeven genen voldoen aan beide criteria. De kleurcodering voor de overige genen volgt de gebruikte EnhancedVolcano-instellingen. Elk punt vertegenwoordigt één gen (n = 8).)***.</i></sub>
 ___
 **🌸Go-analyse**
 
