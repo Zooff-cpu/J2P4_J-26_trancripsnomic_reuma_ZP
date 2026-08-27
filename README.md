@@ -127,8 +127,7 @@ De Pathview-analyse laat daarmee zien dat meerdere genen binnen de Rheumatoid Ar
 </tr>
 </table>
 
-<sub><b>Figuur 6.</b> <i>***KEGG-pathway analyse van de reumatoïde artritis route. (6a) Algemene verrijking van de route, waarbij alle significant veranderde genen en eiwitten uit de R-analyse groen zijn gemarkeerd tegen de standaard biologische achtergrond (wit/grijs).
-(6b) Differentiële genexpressie binnen dezelfde route, waarbij de kleurenbalk (legenda van -1 tot +1) de exacte richting van de expressieverandering bij de RA-groep ten opzichte van de controles aangeeft. Rode vakjes duiden op een verhoogde expressie (upregulatie) en groene vakjes op een verlaagde expressie (downregulatie) (8=n).***.</i></sub>
+<sub><b>Figuur 6.</b> <i>***KEGG Rheumatoid Arthritis-pathway (hsa05323) met differentiële genexpressie tussen ACPA-positieve RA-patiënten en ACPA-negatieve controles. (A) De volledige Rheumatoid Arthritis-pathway met alle genen en eiwitten die volgens KEGG onderdeel zijn van de pathway. Genen uit de differentiële-expressieanalyse die aan deze pathway zijn gekoppeld, zijn gekleurd. (B) De differentiële genexpressie van pathway-genen in RA ten opzichte van controles, weergegeven als log2 fold change. Rode kleur geeft verhoogde expressie en groene kleur verlaagde expressie in de RA-groep ten opzichte van de controlegroep weer; de kleurintensiteit geeft de mate van verandering weer. Niet-gekleurde genen zijn niet differentieel tot expressie gekomen volgens de gebruikte selectiecriteria (padj < 0,05 en |log2 fold change| > 1).***.</i></sub>
 
 
 
