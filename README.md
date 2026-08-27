@@ -104,7 +104,13 @@ _____
 
 **🌸KEGG pathway analyse in diagram**
 
-De RNA-data van de vier vrouwen met reumatoïde artritis (RA) en de vier controlepersonen zijn geanalyseerd via twee KEGG-pathway diagrammen, waarbij Figuur 6A alle significant veranderde genen markeert en Figuur 6B de expressierichting toont (rood voor upregulatie; groen voor downregulatie). Binnen de pathway lichten genen op in vier hoofdroutes met specifieke patronen. Ten eerste is er bij de immuuncel-interactie een sterke upregulatie te zien van de costimulerende receptoren CD80/86, CD28 en CTLA4, evenals IL15 en LFA1, terwijl de receptor MHCII juist omlaag is gereguleerd. Ten tweede is binnen de ontstekingscascade het cytokine IL1 (en IL1$\beta$) sterk omhoog gereguleerd in macrofagen — in tegenstelling tot IL6 en TNF$\alpha$ die onveranderd bleven — samen met de chemokines CCL2 en CXCL1 die de celmigratie aansturen. Ten derde laat de angiogenese-route zien dat de receptor Tie2 is verhoogd, terwijl VEGF en CXCL5 een verlaagde expressie tonen. Ten slotte is er bij de weefselafbraak een duidelijke splitsing zichtbaar: het kraakbeenafbrekende enzym MMP1/3 is sterk omhoog gereguleerd, terwijl de specifieke botafbrekende factoren CTSL en V-ATPase in de osteoclasten juist omlaag zijn gereguleerd.
+Om de differentiële genexpressie te lokaliseren binnen een biologisch relevante RA-signaalroute, werd de KEGG Rheumatoid Arthritis-pathway (hsa05323) gevisualiseerd met Pathview. Figuur 6A toont de volledige Rheumatoid Arthritis-pathway, inclusief de genen en eiwitten die volgens KEGG onderdeel zijn van deze route. Figuur 6B toont binnen dezelfde pathway de differentiële genexpressie tussen ACPA-positieve RA-patiënten en ACPA-negatieve controles, waarbij alleen genen die volgens de gebruikte selectiecriteria differentieel tot expressie kwamen, gekleurd zijn.
+
+Binnen de pathway werden verschillende veranderingen in genexpressie waargenomen. In de interactie tussen immuuncellen waren onder andere CD80/86, CD28, CTLA4, LFA1 en IL15 verhoogd tot expressie gebracht, terwijl MHCII verlaagd was. Binnen ontstekingsgerelateerde componenten waren onder andere IL1 en IL1B verhoogd tot expressie gebracht. Ook verschillende chemokinen, waaronder CCL2 en CXCL1, vertoonden een verhoogde expressie.
+
+Binnen de VEGF-gerelateerde route was Tie2 verhoogd tot expressie gebracht, terwijl onder andere VEGF en CXCL5 een lagere expressie vertoonden. Daarnaast werd binnen de weefselafbraakroute een verhoogde expressie van MMP13 waargenomen. Componenten die betrokken zijn bij osteoclastactiviteit, waaronder CTSL en V-ATPase, vertoonden juist een lagere expressie.
+
+De Pathview-analyse laat daarmee zien dat meerdere genen binnen de Rheumatoid Arthritis-pathway differentieel tot expressie komen, met veranderingen in onder andere immuunactivatie, ontstekingssignaling, angiogenese en weefselafbraak.
 
 <table align="center">
 <tr>
