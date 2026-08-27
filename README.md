@@ -3,7 +3,7 @@
 <sub><b>Figuur 1.</b> <i>***Voorblad gemaakt met AI***.</i></sub>
 
 
-# **🌟Analyse van genexpressie bij patiënten met reuma in tegenstelling tot gezonde mensen🌟**
+# **🌟Differentiële genexpressie bij ACPA-positieve patiënten met reumatoïde artritis ten opzichte van ACPA-negatieve controles🌟**
 ---
 
 
