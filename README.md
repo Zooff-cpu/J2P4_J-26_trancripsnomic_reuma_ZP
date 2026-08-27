@@ -58,7 +58,7 @@ De sterkst opgereguleerde genen waren onder andere SRGN, PTGFR, ADAMTS6, CXCR1, 
 
 <img width="1917" height="982" alt="Rplot_Volcano_plot_Zoom" src="https://github.com/user-attachments/assets/6efe6407-06b3-462e-a518-2161b8b2b6b6" />
 
-<sub><b>Figuur 3.</b> <i>***Volcano plot van differentiële genexpressie in synoviale biopsieën van ACPA-positieve reumatoïde artritis (RA)-patiënten ten opzichte van ACPA-negatieve controles. De x-as geeft de log2 fold change weer, waarbij positieve waarden een verhoogde en negatieve waarden een verlaagde genexpressie in de RA-groep aangeven. De y-as geeft de −log10 van de aangepaste p-waarde (padj) weer. Een gen werd als sterk differentieel geëxprimeerd beschouwd bij een padj < 0,05 en |log2 fold change| > 1, wat overeenkomt met minimaal een tweevoudige verandering in genexpressie. Elk punt vertegenwoordigt één gen (n = 8).)***.</i></sub>
+<sub><b>Figuur 3.</b> <i>***Volcano plot van differentiële genexpressie in synoviale biopsieën van ACPA-positieve reumatoïde artritis (RA)-patiënten ten opzichte van ACPA-negatieve controles. De x-as geeft de log2 fold change weer, waarbij positieve waarden een verhoogde en negatieve waarden een verlaagde genexpressie in de RA-groep aangeven. De y-as geeft de −log10 van de aangepaste p-waarde (padj) weer. Een gen werd als sterk differentieel geëxprimeerd beschouwd bij een padj < 0,05 en |log2 fold change| > 1, wat overeenkomt met minimaal een tweevoudige verandering in genexpressie. Elk punt vertegenwoordigt één gen (n = 8).***.</i></sub>
 ___
 **🌸Differentieel geëxprimeerde genen zijn voornamelijk betrokken bij immuungerelateerde processen**
 
